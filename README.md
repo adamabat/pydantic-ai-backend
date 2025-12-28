@@ -37,29 +37,6 @@ With Docker sandbox support:
 pip install pydantic-ai-backend[docker]
 ```
 
-## pydantic-ai-backend vs pydantic-deep
-
-| Feature | pydantic-ai-backend | pydantic-deep |
-|---------|---------------------|---------------|
-| File backends (State, Filesystem, Composite) | ✅ | ✅ (uses this library) |
-| Docker sandbox | ✅ | ✅ (uses this library) |
-| Session management | ✅ | ✅ (uses this library) |
-| Todo/Planning toolset | ❌ | ✅ |
-| Subagent delegation | ❌ | ✅ |
-| Skills system | ❌ | ✅ |
-| History summarization | ❌ | ✅ |
-| Pre-built agent factory | ❌ | ✅ |
-
-**Use pydantic-ai-backend when:**
-- You want to add file operations to your existing pydantic-ai agent
-- You need Docker sandbox execution without the full framework
-- You're building a custom agent and want modular components
-
-**Use pydantic-deep when:**
-- You want a complete agent framework out of the box
-- You need planning, subagents, and skills
-- You want automatic context management for long conversations
-
 ## Usage with pydantic-ai
 
 ### Basic File Operations Tool
